@@ -10,7 +10,7 @@
 
 <div>
     <button>
-        {meal.kind}: dodaj
+        {meal.kind}: dodaj posiłek
     </button>
     <ul>
         {#each meal.dishes as dish}
